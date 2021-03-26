@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHook Deleter", "WebHook Deleter\WebHook Deleter.csproj", "{E2E4B777-BE1A-4BC6-A4AE-C194AC6A0DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E4B777-BE1A-4BC6-A4AE-C194AC6A0DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E4B777-BE1A-4BC6-A4AE-C194AC6A0DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E4B777-BE1A-4BC6-A4AE-C194AC6A0DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E4B777-BE1A-4BC6-A4AE-C194AC6A0DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0604E790-BE90-4608-B13D-ACC93A850333}
+	EndGlobalSection
+EndGlobal
